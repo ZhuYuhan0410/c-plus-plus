@@ -1,0 +1,8 @@
+.DS_Store
+*.dSYM
+test*
+first
+Info.plist
+*.o
+*.out
+*.exe
