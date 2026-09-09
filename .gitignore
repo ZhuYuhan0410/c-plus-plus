@@ -1,6 +1,6 @@
 .DS_Store
 *.dSYM
-test*
+test
 first
 Info.plist
 *.o
