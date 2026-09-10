@@ -6,3 +6,6 @@ Info.plist
 *.o
 *.out
 *.exe
+# 编译生成的可执行文件（与 .cpp 同名，如 test1、test2）
+test[0-9]*
+!test*.cpp

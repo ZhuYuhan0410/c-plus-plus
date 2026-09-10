@@ -5,7 +5,7 @@
             "name": "C++ 调试 (clang++)",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/testcpp",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
